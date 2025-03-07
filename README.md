@@ -4,4 +4,5 @@ This web app uses TLE data to plot satellites in a 3D environment. The TLE data 
 
 This project is in its early stages and will be expanded with additional features over time.
 
-![Alt text](img/Satellite3DImage.png)
+## 3D Satellite Visualization
+![3D Satellite Demo Image](img/Satellite3DImage.png)
